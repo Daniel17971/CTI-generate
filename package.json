@@ -1,0 +1,20 @@
+{
+  "name": "generate_project",
+  "version": "1.0.0",
+  "description": "generates a new project ",
+  "main": "bin/index.js",
+  "bin": {
+    "generate": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "cli"
+  ],
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
